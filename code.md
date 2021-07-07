@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Ana Luiza Bastos Barbosa Guimarães da Silva 
+@author: Ana Luiza Bastos Barbosa Guimarães da Silva
+         Odylio Denys de Aguiar
+         Riccardo Sturani
 """
 
 
