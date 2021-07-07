@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: ana-luiza
+@author: Ana Luiza Bastos Barbosa Guimarães da Silva 
 """
 
 
